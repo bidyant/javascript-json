@@ -1,0 +1,136 @@
+[
+    {
+    "name":"Bidya Bedant joshi",
+    "desc":"He is a web devloper and a self taught programmer. He is good at skill like web devlopment , compitative programming and also an algo exprt also having a knowledge of ethical hacking . He is douing his graduation at GMU rightnow.",
+    "email":"bidyabedantjoshi@gmail.com",
+    "url":"./images/my.jpg"
+    },
+    {
+    "name":"Narendra Modi",
+    "desc":"Narendra Damodardas Modi is an Indian politician serving as the 14th and current Prime Minister of India since 2014. He was the Chief Minister of Gujarat from 2001 to 2014 and is the Member of Parliament for Varanasi.",
+    "email":"https://twitter.com/narendramodi",
+    "url":"https://upload.wikimedia.org/wikipedia/commons/2/2e/Prime_Minister%2C_Shri_Narendra_Modi%2C_in_New_Delhi_on_August_08%2C_2019_%28cropped%29.jpg"
+    },
+        {
+    "name":"Amit Shah",
+    "desc":"Amit Anilchandra Shah is an Indian politician currently serving as the Minister of Home Affairs. He served as the President of the Bharatiya Janata Party from 2014 to 2020. He was elected to the lower house of Parliament, Lok Sabha, in the 2019 Indian general elections from Gandhinagar.",
+    "email":"https://twitter.com/AmitShah",
+    "url":"https://bsmedia.business-standard.com/_media/bs/img/article/2020-02/24/full/1582512381-6421.jpg"
+    },
+        {
+    "name":"Nirmala Sitharaman",
+    "desc":"Nirmala Sitharaman is an Indian economist and politician serving as the current Minister of Finance and Corporate Affairs of India. She is a member of the Rajya Sabha, upper house of the Indian Parliament, since 2014.",
+    "email":"https://twitter.com/nsitharaman",
+    "url":"https://cdn.dnaindia.com/sites/default/files/styles/full/public/2020/05/30/907760-nirmala-sitha.jpg"
+    },
+    {
+    "name":"Sachin Tendulkar",
+    "desc":"Sachin Ramesh Tendulkar is an Indian former international cricketer who served as captain of the Indian national team. He is widely regarded as one of the greatest batsmen in the history of cricket. He is the highest run scorer of all time in International cricket.",
+    "email":"https://twitter.com/sachintendulkar",
+    "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_cricket_legend_Sachin_Tendulkar_at_the_Oval_Maidan_in_Mumbai_During_the_Duke_and_Duchess_of_Cambridge_Visit%2826271019082%29.jpg/390px-The_cricket_legend_Sachin_Tendulkar_at_the_Oval_Maidan_in_Mumbai_During_the_Duke_and_Duchess_of_Cambridge_Visit%2826271019082%29.jpg"
+    },
+    {
+    "name":"Rohit Sharma",
+    "desc":"Rohit Gurunath Sharma is an Indian international cricketer who plays for Mumbai in domestic cricket and captains Mumbai Indians in the Indian Premier League as a right-handed batsman and an occasional right-arm off break bowler. He is the vice-captain of the Indian national team in limited-overs formats.",
+    "email":"https://twitter.com/ImRo45",
+    "url":"http://t2.gstatic.com/images?q=tbn:ANd9GcTqrDYnTIRb7LUZwNDZ1DmysHpEDgdw_FGDO8Wa_tJiEDJiQIQBZixmPMAh0JcN"
+    },
+    {
+    "name":"Virat Kohli",
+    "desc":"Virat Kohli is an Indian cricketer and the current captain of the India national team. A right-handed top-order batsman, Kohli is regarded as one of the best contemporary batsmen in the world. He plays for Royal Challengers Bangalore in the Indian Premier League, and has been the team's captain since 2013.",
+    "email":"https://twitter.com/imVkohli",
+    "url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/The_President%2C_Shri_Pranab_Mukherjee_presenting_the_Padma_Shri_Award_to_Shri_Virat_Kohli%2C_at_a_Civil_Investiture_Ceremony%2C_at_Rashtrapati_Bhavan%2C_in_New_Delhi_on_March_30%2C_2017_%28cropped%29.jpg/260px-thumbnail.jpg"
+    },
+    {
+    "name":"Mahendra Singh Dhoni",
+    "desc":"Mahendra Singh Dhoni, is a former Indian international cricketer who captained the Indian national team in limited-overs formats from 2007 to 2016 and in Test cricket from 2008 to 2014.",
+    "email":"https://twitter.com/msdhoni",
+    "url":"http://t0.gstatic.com/images?q=tbn:ANd9GcQT1Bybchl7r4pt1Jo2OAIc7rwWK1izBGK3xsndD179334FoZV_5Yx51E7vpyk_"
+    },
+    {
+    "name":"Ravindra Jadeja",
+    "desc":"Ravindrasinh Anirudhsinh Jadeja, commonly known as Ravindra Jadeja, is an Indian international cricketer. He is an all-rounder, who plays as a left-handed middle-order batsman and slow left-arm orthodox bowler. He represents Saurashtra in first-class cricket and the Chennai Super Kings in the Indian Premier League",
+    "email":"https://twitter.com/imjadeja",
+    "url":"https://storage.googleapis.com/cricketimages/Players/7.png"
+    },
+    {
+    "name":"Mukesh Ambani",
+    "desc":"Mukesh Dhirubhai Ambani is an Indian billionaire businessman, and the chairman, managing director, and largest shareholder of Reliance Industries Ltd., a Fortune Global 500 company and India's most valuable company by market value.",
+    "email":"https://twitter.com/mukeshambanima?lang=en#:~:text=Mukesh%20Ambani%20(%40MukeshAmbanima)%20%7C%20Twitter",
+    "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNimluvL7vc2Ok_sOuJA64Nrf6R8aclDZ6xQ&usqp=CAU"
+    },
+    {
+    "name":"Ratan Tata",
+    "desc":"Ratan Naval Tata is an Indian industrialist, philanthropist, and a former chairman of Tata Sons. He was also chairman of Tata Group, from 1990 to 2012, and again, as interim chairman, from October 2016 through February 2017, and continues to head its charitable trusts.",
+    "email":"https://twitter.com/rntata2000",
+    "url":"https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2Fb0c032466eb88b109f20d7d9f6b4e0a8%2F0x0.jpg"
+    },
+    {
+    "name":"Jeff Bezos",
+    "desc":"Jeffrey Preston Bezos is an American internet entrepreneur, industrialist, media proprietor, and investor. He is the founder and CEO of the multi-national technology company Amazon.",
+    "email":"https://twitter.com/JeffBezos",
+    "url":"https://www.ctvnews.ca/polopoly_fs/1.4416073.1557440873!/httpImage/image.jpg_gen/derivatives/landscape_1020/image.jpg"
+    },
+    {
+    "name":"Steve Jobs",
+    "desc":"Steven Paul Jobs was an American business magnate, industrial designer, investor, and media proprietor.",
+    "email":"https://twitter.com/stevejobsceo?lang=en#:~:text=Steve%20Jobs%20(%40stevejobsceo)%20%7C%20Twitter",
+    "url":"https://www.history.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTY3MzMwNTQ0NDgzMzEzNDg5/tdih-steve-jobs-gettyimages-101805829.jpg"
+    },
+    {
+    "name":"Elon Musk",
+    "desc":"Elon Reeve Musk FRS is a business magnate, industrial designer and engineer. He is the founder, CEO, CTO and chief designer of SpaceX; early investor, CEO and product architect of Tesla, Inc.; founder of The Boring Company; co-founder of Neuralink; and co-founder and initial co-chairman of OpenAI.",
+    "email":"https://twitter.com/elonmusk",
+    "url":"http://www.gstatic.com/tv/thumb/persons/487130/487130_v9_bb.jpg"
+    },
+    {
+    "name":"Kapil Sharma",
+    "desc":"Kapil Sharma is an Indian stand-up comedian, television presenter, actor and producer known for hosting The Kapil Sharma Show. He previously hosted the television comedy shows Comedy Nights with Kapil and Family Time with Kapil. Ormax Media rated Sharma the most popular Indian television personality in April 2016.om",
+    "email":"https://twitter.com/kapilsharmak9",
+    "url":"http://www.gstatic.com/tv/thumb/persons/423096/423096_v9_aa.jpg"
+    },
+    {
+    "name":"Sunil Grover",
+    "desc":"Sunil Grover is an Indian actor and stand-up comedian. He came into limelight for his portrayal as Gutthi on Comedy Nights with Kapil but gained popularity for playing the role of Dr Mashoor Gulati and Rinku Devi on The Kapil Sharma Show.",
+    "email":"https://twitter.com/WhoSunilGrover",
+    "url":"https://pbs.twimg.com/profile_images/1270090903428968449/LDMBeMX7_400x400.jpg"
+    },
+    {
+    "name":"Kishore Kumar",
+    "desc":"Indian playback singer | Abhas Kumar Ganguly, better known by his stage name Kishore Kumar was an Indian playback singer and actor.",
+    "email":"https://gaana.com/artist/kishore-kumar?autoplay=true",
+    "url":"https://static.toiimg.com/thumb/msid-64755488,width-1200,height-900,resizemode-4/.jpg"
+    },
+    {
+    "name":"Lata Mangeshkar",
+    "desc":"Lata Mangeshkar is an Indian playback singer and music director. She is one of the best-known and most respected playback singers in India.",
+    "email":"https://twitter.com/mangeshkarlata",
+    "url":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Lata-Mangeshkar.jpg"
+    },
+    {
+    "name":"Raj Kapoor",
+    "desc":"Raj Kapoor was an Indian film actor, producer and director of Indian cinema. He is widely regarded as the greatest showman in the history of Indian cinema and entertainment. He received multiple accolades, including three National Film Awards and 11 Filmfare Awards in India.",
+    "email":"https://en.wikipedia.org/wiki/Raj_Kapoor",
+    "url":"https://akm-img-a-in.tosshub.com/indiatoday/reporter_image/raj-kapoor_042313060134_0.jpg?2Y6tFwvnQor843LOmMmguu9Vks6TT8Vu"
+    },
+    {
+    "name":"Arijit Singh",
+    "desc":"Arijit Singh is an Indian playback singer. He sings predominantly in Hindi and Bengali but has also performed in various other Indian languages. He is the recipient of a National Award and a record six Filmfare Awards.",
+    "email":"https://twitter.com/thearijitsingh",
+    "url":"https://bsmedia.business-standard.com/_media/bs/img/article/2019-12/03/full/1575396404-649.jpg"
+    },
+    {
+    "name":"Armaan Malik",
+    "desc":"Armaan Malik is an Indian singer, songwriter, record producer, voice-over, performer and actor. He is known for his singing in multiple languages, including Hindi, English, Kannada, Telugu, Tamil, Bengali, Marathi, Gujarati, Malayalam, Assamese, Punjabi and Urdu. He also sung in many Indian languages.",
+    "email":"https://twitter.com/armaanmalik22",
+    "url":"https://upload.wikimedia.org/wikipedia/en/f/f2/Armaan_Malik_Singer.jpg"
+    },
+    {
+    "name":"Bidyant sir ki classes",
+    "desc":"All about programming and some tech related things",
+    "email":"bidyantsirkiclasses@gmail.com",
+    "url":"./images/old.png"
+    }
+]
+
+
