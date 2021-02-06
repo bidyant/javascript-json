@@ -58,9 +58,9 @@ function makerequest()
 }
 makerequest();
 var i=0;
-function result(info)
-{             
-        main_img.src=info[i].url;
+function result(info){
+        main_img.src="./icons/giphy.gif";
+        setTimeout(()=>{main_img.src=info[i].url},100);
         p_name.innerHTML=info[i].name;
         p_desc.innerHTML=info[i].desc;
         dwn_url.href=info[i].url;
@@ -81,7 +81,8 @@ function next_result(info)
      if(i!=info.length)
     {
     i=i+1;
-        main_img.src=info[i].url;
+        main_img.src="./icons/giphy.gif";
+        setTimeout(()=>{main_img.src=info[i].url},100);
         p_name.innerHTML=info[i].name;
         p_desc.innerHTML=info[i].desc;
         dwn_url.href=info[i].url;
@@ -105,7 +106,8 @@ function prev_result(info)
     if(i!=0)
     {
     i=i-1;
-        main_img.src=info[i].url;
+        main_img.src="./icons/giphy.gif";
+        setTimeout(()=>{main_img.src=info[i].url},100);
         p_name.innerHTML=info[i].name;
         p_desc.innerHTML=info[i].desc;
         dwn_url.href=info[i].url;

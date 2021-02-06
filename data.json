@@ -124,10 +124,22 @@
     "desc":"Armaan Malik is an Indian singer, songwriter, record producer, voice-over, performer and actor. He is known for his singing in multiple languages, including Hindi, English, Kannada, Telugu, Tamil, Bengali, Marathi, Gujarati, Malayalam, Assamese, Punjabi and Urdu. He also sung in many Indian languages.",
     "email":"https://twitter.com/armaanmalik22",
     "url":"https://upload.wikimedia.org/wikipedia/en/f/f2/Armaan_Malik_Singer.jpg"
+    },    
+    {
+    "name":"A. R. Rahman",
+    "desc":"Allahrakha Rahman, known professionally as A. R. Rahman, is an Indian composer, musician, singer, and music producer who works predominantly in Tamil and Hindi films. In 2010, the Indian government awarded him the Padma Bhushan, the nation's third-highest civilian award.",
+    "email":"https://twitter.com/arrahman",
+    "url":"https://thefederal.com/file/2019/06/AR-Rahman-696x532.jpg"
+    },
+    {
+    "name":"Kapil Dev",
+    "desc":"Kapil Dev Ramlal Nikhanj is a former Indian cricketer. He was a fast bowler and a hard hitting middle order batsman. Widely regarded as one of the greatest all-rounders to play the game, he is also regarded as one of the greatest captains of all time. He led India to win the third Cricket World Cup title in 1983.",
+    "email":"https://twitter.com/therealkapildev",
+    "url":"https://akm-img-a-in.tosshub.com/indiatoday/images/story/201701/kapil-dev-647_010616110216.jpg"
     },
     {
     "name":"Bidyant sir ki classes",
-    "desc":"All about programming and some tech related things",
+    "desc":"All about programming and some tech related things.",
     "email":"bidyantsirkiclasses@gmail.com",
     "url":"./images/old.png"
     }
