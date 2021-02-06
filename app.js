@@ -78,7 +78,7 @@ function result(info){
 
 function next_result(info)
 {
-     if(i!=info.length)
+     if(i+1 !=info.length)
     {
     i=i+1;
         main_img.src="./icons/giphy.gif";
